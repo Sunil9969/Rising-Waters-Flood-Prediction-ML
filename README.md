@@ -60,7 +60,9 @@ Project screenshots are available in the **screenshots** folder.
 
 ## 📧 Contact
 Name: Sunil Teja Junjunuri
+
 Email: sunilteja511@gmail.com
+
 GitHub: https://github.com/Sunil9969
 
 ## ⭐ If you like this project
