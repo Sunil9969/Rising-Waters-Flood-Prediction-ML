@@ -1,21 +1,4 @@
-**AI-ML-and-GEN-AI-Track-Project-Template**
+Video Demo
+HDI Project Demo Video
 
-**Repository Structure**
-
-1.Brainstorming & Ideation
-
-2.Requirement Analysis
-
-3.Project Design Phase
-
-4.Project Planning Phase
-
-5.Project Development Phase
-
-6.Project Testing
-
-7.Project Documentation
-
-8.Project Demonstration
-
-Replace the placeholder files with your team's project deliverables.
+Video Link: https://drive.google.com/file/d/1kkBJSO0p2qqe0GIeitOdqEROv7K6zz_m/view?usp=sharing
