@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediction Result</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #eaf4fb; text-align: center; padding: 60px; }
+        .result { background: white; padding: 30px; border-radius: 10px; display: inline-block; box-shadow: 0 0 10px #ccc; }
+        .flood { color: red; font-size: 28px; font-weight: bold; }
+        .noflood { color: green; font-size: 28px; font-weight: bold; }
+        a { display: inline-block; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <div class="result">
+        <h2>Prediction Result</h2>
+        <p class="{{ css_class }}">{{ prediction_text }}</p>
+        <a href="/">Predict Again</a>
+    </div>
+</body>
+</html>
