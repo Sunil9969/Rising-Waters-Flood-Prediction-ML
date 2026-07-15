@@ -56,7 +56,7 @@ http://127.0.0.1:5000
 Project screenshots are available in the **screenshots** folder.
 
 ## 🎥 Demo Video
-(add Google Drive link here once recorded)
+https://drive.google.com/file/d/1kkBJSO0p2qqe0GIeitOdqEROv7K6zz_m/view?usp=sharing
 
 ## 📧 Contact
 Name: Sunil Teja Junjunuri
